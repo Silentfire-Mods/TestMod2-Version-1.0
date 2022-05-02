@@ -1,0 +1,3 @@
+displayName = Test Mod 2
+author = Terraria Mod Dev Team
+version = 0.1
